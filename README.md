@@ -12,7 +12,7 @@ Clone the repository
 
 ```bash
 cd ~
-git clone https://github.com/dunarand/kmeans-compression
+git clone https://github.com/dunarand/kmeans-compression.git
 cd kmeans-compression
 ```
 
